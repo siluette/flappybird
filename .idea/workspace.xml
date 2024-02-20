@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c8ad86-a02d-43b5-8885-214a52715693" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/bird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/gameover_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/gamestart_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/objects/background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/objects/score.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +39,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/golub/PycharmProjects/test22&quot;
   }
 }</component>
@@ -64,7 +50,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="test22" />
+      <module name="FlappyBird" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
